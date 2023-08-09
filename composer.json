@@ -1,0 +1,18 @@
+{
+    "name": "jether/jabari",
+    "description": "A simple php framework for building Web Applications",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Jether\\Jabari\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mutale Jether"
+        }
+    ],
+    "minimum-stability": "alpha",
+    "require": {}
+}
